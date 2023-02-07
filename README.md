@@ -1,11 +1,14 @@
 # Diabetes-Prediction-Using-Python
+
 **BUSINESSUNDERSTANDING**
+
 **Background**
 Diabetes is a very common and prevalent disease, where either too little or no 
 insulin is produced by pancreas. Low level of insulin makes body unable to 
 metabolize sugar/glucose, which results in higher glucose level in blood also 
 known as hyperglycemia which can lead to many other health problems affecting 
 our body system.
+
 **Problem Description**
 Number of Diabetic patients is increasing worldwide. One out of ten people are 
 suffering from diabetes. If this disease is not diagnosed on time, then it can 
@@ -14,17 +17,20 @@ vision loss and cardiovascular diseases. These complications can adversely effec
 one’s life. Hence, early detection of this disease necessary for maintaining a 
 healthy life. There are various factors for developing this very disease like blood 
 pressure, body weight and food habits etc.
+
 **Objective**
 Our objective is to build effective predictive models from the given data which can 
 identify patients at risk of having diabetes. Moreover, we will predict diabetes with 
 the help of significant attributes. For our models, we will use patients’ data and 
 laboratory results will be used for making above predictions which includes 
 patient’s BMI, Blood pressure, age, Gender, etc.
+
 **Motivation**
 There is a need of diabetes or any risk predictors for making decisions in clinical 
 managements of patients so that the risk of developing diseases can be reduced and
 treatments can be initiated. Using these models, physicians can predict the future 
 assurance of this very disease and can prevent it.
+
 **DATA DESCRIPTION**
 For this project, I collected data from Kaggle:
 https://www.kaggle.com/alexteboul/diabetes-health-indicatorsdataset?select=diabetes_binary_5050split_health_indicators_BRFSS2015.csv
